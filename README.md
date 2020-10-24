@@ -1,7 +1,7 @@
 ### Hello World  <img src="https://media.giphy.com/media/l1J9uTjO4mqy36gqQ/giphy.gif" width="40px">
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - :school: I'm Teghdeep currently a third Year IT student at <a href="http://www.jiit.ac.in/">@JIIT  </a>
 - ❤️ **Development**
