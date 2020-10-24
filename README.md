@@ -18,3 +18,5 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
 <img alt="GIF" height="200px" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
 
+
+Show some ❤️ ! star some of my repositories!
