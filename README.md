@@ -1,4 +1,4 @@
-### Hello World  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100px">
+### Hello World  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="90px">
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
